@@ -61,7 +61,7 @@ const Bridge = () => {
             </h2>
             <p className="text-[gray] font-semibold ">
               Our Inscription Tool offers a secure, immutable platform for
-              engraving your data onto the blockchain. Whether it's artwork,
+              engraving your data onto the blockchain. Whether it&apos;s artwork,
               intellectual property, or personal records, ensure your digital
               assets stand the test of time in an ever-evolving digital
               landscape.
@@ -79,7 +79,7 @@ const Bridge = () => {
               Step into a world where digital artistry meets blockchain
               innovation. Our NFT marketplace is a curated space for creators
               and collectors to explore, buy, and sell unique digital treasures.
-              With robust security and an intuitive interface, it's the ultimate
+              With robust security and an intuitive interface, it&apos;s the ultimate
               destination for NFT enthusiasts.
             </p>
           </div>
